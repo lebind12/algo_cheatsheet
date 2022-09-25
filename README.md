@@ -1,1 +1,2 @@
-# algo_cheatsheet
+# CHEAT SHEET
+### 코드를 구현하다 반복될 것 같은 코드를 꼼쳐두는 곳입니다.

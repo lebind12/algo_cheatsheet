@@ -11,7 +11,6 @@ for x in range(N):
     for _ in range(N):
         matrix[x].append(n)
         n += 1
-print(matrix)
 
 # 상하 좌우 이동 값
 dx = [-1, 1, 0, 0]
